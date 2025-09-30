@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\bin\Debug\net8.0\lab3v1.exe
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\bin\Debug\net8.0\lab3v1.deps.json
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\bin\Debug\net8.0\lab3v1.runtimeconfig.json
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\bin\Debug\net8.0\lab3v1.dll
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\bin\Debug\net8.0\lab3v1.pdb
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.sourcelink.json
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.dll
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\refint\lab3v1.dll
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.pdb
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\lab3v1.genruntimeconfig.cache
+C:\Users\User\Desktop\OOP-DENUS_B\lab3v1\obj\Debug\net8.0\ref\lab3v1.dll

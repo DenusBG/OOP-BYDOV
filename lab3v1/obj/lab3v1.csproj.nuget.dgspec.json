@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab2v1\\lab2v1.csproj": {}
+    "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab3v1\\lab3v1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab2v1\\lab2v1.csproj": {
+    "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab3v1\\lab3v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab2v1\\lab2v1.csproj",
-        "projectName": "lab2v1",
-        "projectPath": "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab2v1\\lab2v1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab3v1\\lab3v1.csproj",
+        "projectName": "lab3v1",
+        "projectPath": "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab3v1\\lab3v1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab2v1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\OOP-DENUS_B\\lab3v1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
