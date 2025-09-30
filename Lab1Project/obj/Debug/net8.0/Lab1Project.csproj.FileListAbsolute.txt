@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\bin\Debug\net8.0\Lab1Project.exe
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\bin\Debug\net8.0\Lab1Project.deps.json
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\bin\Debug\net8.0\Lab1Project.runtimeconfig.json
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\bin\Debug\net8.0\Lab1Project.dll
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\bin\Debug\net8.0\Lab1Project.pdb
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\Lab1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\Lab1Project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\Lab1Project.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\Lab1Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\Lab1Project.dll
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\refint\Lab1Project.dll
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\Lab1Project.pdb
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\Lab1Project.genruntimeconfig.cache
+C:\Users\User\Desktop\OOP-budov\lab1\Lab1Project\obj\Debug\net8.0\ref\Lab1Project.dll
