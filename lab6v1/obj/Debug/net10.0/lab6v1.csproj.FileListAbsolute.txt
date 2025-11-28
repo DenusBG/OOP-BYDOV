@@ -1,0 +1,15 @@
+C:\OOP-DENUS_B\lab6v1\bin\Debug\net10.0\lab6v1.exe
+C:\OOP-DENUS_B\lab6v1\bin\Debug\net10.0\lab6v1.deps.json
+C:\OOP-DENUS_B\lab6v1\bin\Debug\net10.0\lab6v1.runtimeconfig.json
+C:\OOP-DENUS_B\lab6v1\bin\Debug\net10.0\lab6v1.dll
+C:\OOP-DENUS_B\lab6v1\bin\Debug\net10.0\lab6v1.pdb
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.AssemblyInfoInputs.cache
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.AssemblyInfo.cs
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.csproj.CoreCompileInputs.cache
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.sourcelink.json
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.dll
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\refint\lab6v1.dll
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.pdb
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\lab6v1.genruntimeconfig.cache
+C:\OOP-DENUS_B\lab6v1\obj\Debug\net10.0\ref\lab6v1.dll
