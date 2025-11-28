@@ -1,0 +1,15 @@
+C:\OOP-DENUS_B\IndependentWork12\bin\Debug\net10.0\IndependentWork12.exe
+C:\OOP-DENUS_B\IndependentWork12\bin\Debug\net10.0\IndependentWork12.deps.json
+C:\OOP-DENUS_B\IndependentWork12\bin\Debug\net10.0\IndependentWork12.runtimeconfig.json
+C:\OOP-DENUS_B\IndependentWork12\bin\Debug\net10.0\IndependentWork12.dll
+C:\OOP-DENUS_B\IndependentWork12\bin\Debug\net10.0\IndependentWork12.pdb
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.AssemblyInfoInputs.cache
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.AssemblyInfo.cs
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.csproj.CoreCompileInputs.cache
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.sourcelink.json
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.dll
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\refint\IndependentWork12.dll
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.pdb
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\IndependentWork12.genruntimeconfig.cache
+C:\OOP-DENUS_B\IndependentWork12\obj\Debug\net10.0\ref\IndependentWork12.dll
