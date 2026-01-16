@@ -1,0 +1,15 @@
+C:\OOP-DENUS_B\lab20\bin\Debug\net10.0\lab20.exe
+C:\OOP-DENUS_B\lab20\bin\Debug\net10.0\lab20.deps.json
+C:\OOP-DENUS_B\lab20\bin\Debug\net10.0\lab20.runtimeconfig.json
+C:\OOP-DENUS_B\lab20\bin\Debug\net10.0\lab20.dll
+C:\OOP-DENUS_B\lab20\bin\Debug\net10.0\lab20.pdb
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.AssemblyInfoInputs.cache
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.AssemblyInfo.cs
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.csproj.CoreCompileInputs.cache
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.sourcelink.json
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.dll
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\refint\lab20.dll
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.pdb
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\lab20.genruntimeconfig.cache
+C:\OOP-DENUS_B\lab20\obj\Debug\net10.0\ref\lab20.dll
