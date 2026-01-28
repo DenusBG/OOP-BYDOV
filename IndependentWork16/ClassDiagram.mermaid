@@ -1,0 +1,49 @@
+classDiagram
+    class Order {
+        +int Id
+        +string ProductName
+        +decimal Amount
+    }
+
+    class IOrderValidator {
+        <<interface>>
+        +Validate(Order order) bool
+    }
+
+    class IOrderRepository {
+        <<interface>>
+        +Save(Order order) void
+    }
+
+    class IEmailService {
+        <<interface>>
+        +SendConfirmation(Order order) void
+    }
+
+    class OrderValidator {
+        +Validate(Order order) bool
+    }
+
+    class OrderRepository {
+        +Save(Order order) void
+    }
+
+    class EmailService {
+        +SendConfirmation(Order order) void
+    }
+
+    class OrderService {
+        -IOrderValidator _validator
+        -IOrderRepository _repository
+        -IEmailService _emailService
+        +OrderService(IOrderValidator, IOrderRepository, IEmailService)
+        +ProcessOrder(Order order) void
+    }
+
+    OrderValidator ..|> IOrderValidator : implement
+    OrderRepository ..|> IOrderRepository : implement
+    EmailService ..|> IEmailService : implement
+    
+    OrderService --> IOrderValidator : depends on
+    OrderService --> IOrderRepository : depends on
+    OrderService --> IEmailService : depends on
