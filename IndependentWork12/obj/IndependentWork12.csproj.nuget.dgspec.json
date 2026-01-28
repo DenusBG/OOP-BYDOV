@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj": {}
+    "D:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj": {}
   },
   "projects": {
-    "C:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj": {
+    "D:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj",
+        "projectUniqueName": "D:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj",
         "projectName": "IndependentWork12",
-        "projectPath": "C:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj",
+        "projectPath": "D:\\OOP-DENUS_B\\IndependentWork12\\IndependentWork12.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\OOP-DENUS_B\\IndependentWork12\\obj\\",
+        "outputPath": "D:\\OOP-DENUS_B\\IndependentWork12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

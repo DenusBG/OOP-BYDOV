@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONUFpXmDpyg=",
+  "dgSpecHash": "8zyPNQAT7/4=",
   "success": true,
-  "projectFilePath": "C:\\OOP-DENUS_B\\lab3v1\\lab3v1.csproj",
+  "projectFilePath": "D:\\OOP-DENUS_B\\lab3v1\\lab3v1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",

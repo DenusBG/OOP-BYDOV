@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QMUCLAAXATs=",
+  "dgSpecHash": "V7T+HKfKc2k=",
   "success": true,
-  "projectFilePath": "C:\\OOP-DENUS_B\\IndependentWork11\\IndependentWork11.csproj",
+  "projectFilePath": "D:\\OOP-DENUS_B\\IndependentWork11\\IndependentWork11.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\polly\\8.6.5\\polly.8.6.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\polly.core\\8.6.5\\polly.core.8.6.5.nupkg.sha512"
