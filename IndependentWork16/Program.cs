@@ -2,13 +2,17 @@
 
 namespace IndependentWork16
 {
+    public class NewBaseType
+    {
+        public string ProductName { get; set; }
+    }
+
     // ==========================================
     // Частина 1: Модель даних
     // ==========================================
-    public class Order
+    public class Order : NewBaseType
     {
         public int Id { get; set; }
-        public string ProductName { get; set; }
         public decimal Amount { get; set; }
     }
 
