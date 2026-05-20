@@ -101,11 +101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OOP-DENUS_B\\IndependentWork11\\IndependentWork11.csproj",
+      "projectUniqueName": "D:\\OOP-DENUS_B\\lab30v1\\IndependentWork11\\IndependentWork11.csproj",
       "projectName": "IndependentWork11",
-      "projectPath": "D:\\OOP-DENUS_B\\IndependentWork11\\IndependentWork11.csproj",
+      "projectPath": "D:\\OOP-DENUS_B\\lab30v1\\IndependentWork11\\IndependentWork11.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\OOP-DENUS_B\\IndependentWork11\\obj\\",
+      "outputPath": "D:\\OOP-DENUS_B\\lab30v1\\IndependentWork11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OOP-DENUS_B\\lab4v1\\lab4v1.csproj": {}
+    "D:\\OOP-DENUS_B\\lab30v1\\lab4v1\\lab4v1.csproj": {}
   },
   "projects": {
-    "D:\\OOP-DENUS_B\\lab4v1\\lab4v1.csproj": {
+    "D:\\OOP-DENUS_B\\lab30v1\\lab4v1\\lab4v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OOP-DENUS_B\\lab4v1\\lab4v1.csproj",
+        "projectUniqueName": "D:\\OOP-DENUS_B\\lab30v1\\lab4v1\\lab4v1.csproj",
         "projectName": "lab4v1",
-        "projectPath": "D:\\OOP-DENUS_B\\lab4v1\\lab4v1.csproj",
+        "projectPath": "D:\\OOP-DENUS_B\\lab30v1\\lab4v1\\lab4v1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\OOP-DENUS_B\\lab4v1\\obj\\",
+        "outputPath": "D:\\OOP-DENUS_B\\lab30v1\\lab4v1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

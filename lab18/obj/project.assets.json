@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OOP-DENUS_B\\lab18\\lab18.csproj",
+      "projectUniqueName": "D:\\OOP-DENUS_B\\lab30v1\\lab18\\lab18.csproj",
       "projectName": "lab18",
-      "projectPath": "D:\\OOP-DENUS_B\\lab18\\lab18.csproj",
+      "projectPath": "D:\\OOP-DENUS_B\\lab30v1\\lab18\\lab18.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\OOP-DENUS_B\\lab18\\obj\\",
+      "outputPath": "D:\\OOP-DENUS_B\\lab30v1\\lab18\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

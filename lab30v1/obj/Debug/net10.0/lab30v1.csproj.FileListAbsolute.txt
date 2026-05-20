@@ -1,0 +1,12 @@
+D:\OOP-DENUS_B\lab30v1\bin\Debug\net10.0\lab30v1.deps.json
+D:\OOP-DENUS_B\lab30v1\bin\Debug\net10.0\lab30v1.dll
+D:\OOP-DENUS_B\lab30v1\bin\Debug\net10.0\lab30v1.pdb
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\lab30v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\lab30v1.AssemblyInfoInputs.cache
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\lab30v1.AssemblyInfo.cs
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\lab30v1.csproj.CoreCompileInputs.cache
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\lab30v1.sourcelink.json
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\lab30v1.dll
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\refint\lab30v1.dll
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\lab30v1.pdb
+D:\OOP-DENUS_B\lab30v1\obj\Debug\net10.0\ref\lab30v1.dll

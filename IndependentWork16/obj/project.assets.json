@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OOP-DENUS_B\\IndependentWork16\\IndependentWork16.csproj",
+      "projectUniqueName": "D:\\OOP-DENUS_B\\lab30v1\\IndependentWork16\\IndependentWork16.csproj",
       "projectName": "IndependentWork16",
-      "projectPath": "D:\\OOP-DENUS_B\\IndependentWork16\\IndependentWork16.csproj",
+      "projectPath": "D:\\OOP-DENUS_B\\lab30v1\\IndependentWork16\\IndependentWork16.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\OOP-DENUS_B\\IndependentWork16\\obj\\",
+      "outputPath": "D:\\OOP-DENUS_B\\lab30v1\\IndependentWork16\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
